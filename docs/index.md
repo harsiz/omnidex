@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Start Looking 👀
-      link: /get/started
+      link: /get-started
     - theme: alt
       text: GitHub
       link: https://github.com/harsiz
@@ -24,12 +24,17 @@ hero:
   </a>
 
   <a class="card" href="/guides/foss">
-    <h3>💻 FOSS</h3>
+    <h3>🐧 FOSS</h3>
     <p>Free & open source stuff</p>
   </a>
 
-  <a class="card" href="/guides/anime">
-    <h3>🎬 Anime</h3>
+  <a class="card" href="/anime">
+    <h3>🌸 Anime</h3>
+    <p>Streaming, sites, tools</p>
+  </a>
+
+  <a class="card" href="/downloading">
+    <h3>💾 Downloading</h3>
     <p>Streaming, sites, tools</p>
   </a>
 
