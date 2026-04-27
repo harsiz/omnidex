@@ -10,6 +10,7 @@ export default {
   themeConfig: {
     logo: "/logo.png",
     darkMode: true,
+
     nav: [
       { text: "Home", link: "/" },
       {
@@ -29,7 +30,8 @@ export default {
         items: [
           { text: "🤖 Artificial Intelligence", link: "/ai" },
           { text: "🔐 Privacy", link: "/privacy" },
-          { text: "🎬 Anime", link: "/anime" },
+          { text: "🌸 Anime", link: "/anime" },
+          { text: "🎬 Streaming", link: "/streaming" },
           { text: "⬇️ Downloading", link: "/downloading" },
           { text: "🐧 FOSS", link: "/foss" }
         ]
@@ -42,6 +44,11 @@ export default {
           { text: "🌐 Internet Tools", link: "/internet-tools" }
         ]
       }
-    ]
+    ],
+
+    footer: {
+      message: "We do not host any files onsite.",
+      copyright: "© 2026 OmniDex."
+    }
   }
 }
