@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "OmniDex"
-  text: 'The "Everything" indexer'
-  tagline: "100s of free and recommended software for your use-case."
+  text: 'The "Everything" index'
+  tagline: "100s of free software, websites and tools for *every* use-case."
   image:
     src: /logo.png
   actions:

@@ -1,7 +1,13 @@
 export default {
   title: "Omnidex",
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }]
+  ],
+
+  appearance: false,
 
   themeConfig: {
+    
     logo: "/logo.png",
 
     nav: [
@@ -15,7 +21,5 @@ export default {
         ]
       }
     ],
-
-    appearance: false
   }
 }
