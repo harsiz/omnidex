@@ -1,0 +1,3 @@
+# OmniDex
+
+The *"Everything"* index
