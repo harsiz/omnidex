@@ -1,25 +1,21 @@
 export default {
   title: "Omnidex",
-  description: "best index ong",
 
   themeConfig: {
+    logo: "/logo.png",
+
     nav: [
       { text: "Home", link: "/" },
-      { text: "Guide", link: "/guide" }
-    ],
-
-    sidebar: [
       {
-        text: "Start",
+        text: "Guides",
         items: [
-          { text: "Home", link: "/" },
-          { text: "Guide", link: "/guide" }
+          { text: "AI Guide", link: "/guides/ai" },
+          { text: "FOSS Guide", link: "/guides/foss" },
+          { text: "Anime Guide", link: "/guides/anime" }
         ]
       }
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/yourname" }
-    ]
+    appearance: false
   }
 }

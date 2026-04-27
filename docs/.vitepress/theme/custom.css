@@ -1,0 +1,44 @@
+:root {
+  --vp-c-brand-1: #6ded3a;  /* main color */
+  --vp-c-brand-2: #249b24;
+  --vp-c-brand-3: #133300;
+}
+
+/* background + text vibe */
+body {
+  background-color: #0f120f;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.card {
+  display: block;
+  padding: 25px;
+  border-radius: 5px;
+  background: #1a1a1f;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s ease;
+  border: 5px solid rgba(255,255,255,0.05);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  background: #001405;
+  border-color: #ecfff4;
+}
+
+.card h3 {
+  margin: 0 0 3px;
+}
+
+.card p {
+  margin: 0;
+  opacity: 0.7;
+  font-size: 14px;
+}
