@@ -1,6 +1,8 @@
 # Streaming
 
-Free and paid ways to watch movies, TV shows, and live content — across every device.
+Here are particularly free (and paid, but worth it) ways to view your favorite western and international shows.
+
+(If you are looking for **Anime** go to [here](/anime). )
 
 :::info Trust Rating Emojis
 
