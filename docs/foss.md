@@ -26,6 +26,7 @@ All software listed here has been reviewed. Always download from the official so
 
 
 - **🏆 [Proton Mail](https://proton.me/mail)** -
+- **🏆 [Hayase](https://hayase.watch)** -
 
 
 
