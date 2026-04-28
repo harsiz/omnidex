@@ -44,7 +44,7 @@ Models you can download and run yourself offline with no API keys needed.
 
 - **💎 [Gemma 3](https://ai.google.dev/gemma)** - Lightweight models that run well on low end devices
 
-- **💎 [Phi-4](https://azure.microsoft.com/en-us/products/phi)** *(Microsoft)* - S
+- **💎 [Phi-4](https://azure.microsoft.com/en-us/products/phi)** - S
 
 - **🔗 [DeepSeek R2](https://www.deepseek.com/)** - It might steal your data but its really good
 
@@ -91,7 +91,7 @@ AI image generators - cloud and local.
 
 AI tools for speech, music, and sound.
 
-- **🏆 [Whisper](https://github.com/openai/whisper)** *(OpenAI)* -
+- **🏆 [Whisper](https://github.com/openai/whisper)** -
 
 - **💎 [ElevenLabs](https://elevenlabs.io/)** - 
 
