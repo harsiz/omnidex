@@ -153,7 +153,7 @@ this list alone.
 
 
 
-### Dongua Focused (Chinese Anime)
+### Donghua Focused (Chinese Anime)
 
 - **🔗 [Animexin](https://animexin.dev/)**
 
