@@ -36,13 +36,13 @@ General-purpose AI chat interfaces you can use right now, in the browser or via 
 
 Models you can download and run yourself offline with no API keys needed.
 
-- **🏆 [Llama 3](https://llama.meta.com/)** *(Meta)* - One of the best open-weight models available. Runs well locally. Multiple sizes from 8B to 405B.
+- **🏆 [Llama 3](https://llama.meta.com/)** - One of the best open-weight models available. Runs well locally. Multiple sizes from 8B to 405B.
 
 - **🏆 [Mistral / Mixtral](https://mistral.ai/)** - High quality, efficient, open-weight models. Mistral 7B is great.
 
-- **💎 [Qwen 2.5](https://qwen.readthedocs.io/)** *(Alibaba)* - Strong model and good for non native speakers.
+- **💎 [Qwen 2.5](https://qwen.readthedocs.io/)** - Strong model and good for non native speakers.
 
-- **💎 [Gemma 3](https://ai.google.dev/gemma)** *(Google)* - Lightweight models that run well on low end devices
+- **💎 [Gemma 3](https://ai.google.dev/gemma)** - Lightweight models that run well on low end devices
 
 - **💎 [Phi-4](https://azure.microsoft.com/en-us/products/phi)** *(Microsoft)* - S
 
