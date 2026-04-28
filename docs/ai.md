@@ -38,7 +38,7 @@ Models you can download and run yourself offline with no API keys needed.
 
 - **🏆 [Llama 3](https://llama.meta.com/)** - One of the best open-weight models available. Runs well locally. Multiple sizes from 8B to 405B.
 
-- **🏆 [Mistral / Mixtral](https://mistral.ai/)** - High quality, efficient, open-weight models. Mistral 7B is great.
+- **🏆 [Mistral / Mixtral](https://mistral.ai/)** - High quality, efficient open-weights models. Mistral 7B is great.
 
 - **💎 [Qwen 2.5](https://qwen.readthedocs.io/)** - Strong model and good for non native speakers.
 
