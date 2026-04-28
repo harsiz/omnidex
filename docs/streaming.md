@@ -41,7 +41,7 @@ Use an ad blocker. These sites are ad-heavy. [uBlock Origin](https://ublockorigi
 
 - **🏆 [XPrime](https://xprime.su/))** - Good alternative to Cineby with what is probably the best UI of any free streaming site. Also has a Windows app for 4K streaming.
 
-- - **💎 [67Movies](https://67movies.net/))** - six seven six seven six seven six seven six seven
+- **💎 [67Movies](https://67movies.net/))** - six seven six seven six seven six seven six seven
 
 
 
