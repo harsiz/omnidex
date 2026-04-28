@@ -16,9 +16,9 @@ export default {
       {
         text: "Guides",
         items: [
-          { text: "AI Guide", link: "/guides/ai" },
-          { text: "FOSS Guide", link: "/guides/foss" },
-          { text: "Anime Guide", link: "/guides/anime" }
+          { text: "AI", link: "/ai" },
+          { text: "FOSS", link: "/foss" },
+          { text: "Anime", link: "/anime" }
         ]
       }
     ],
