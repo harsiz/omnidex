@@ -1,6 +1,6 @@
 # FOSS
 
-**Free and Open Source Software** - software where anyone can view, modify, and distribute. The pick of the bunch.
+**Free and Open Source Software** - software anyone can view, modify, and distribute. The pick of the bunch.
 
 :::info Trust Rating Emojis
 
@@ -16,7 +16,7 @@ All software listed here has been reviewed. Always download from the official so
 
 - **🏆 [Firefox](https://www.mozilla.org/firefox/)** - The gold standard for a privacy-respecting, fully open source browser. Many extensions for Chrome also have a Firefox version.
 
-- **💎 [Librewolf](https://librewolf.net/)** - A fork of Firefox, focused on privacy and security.
+- **💎 [Librewolf](https://librewolf.net/)** - A privacy- and privacy-focused fork of Firefox.
 
 - **💎 [Brave](https://brave.com/)** - A great privacy focused browser built on Chromium.
 
@@ -24,13 +24,8 @@ All software listed here has been reviewed. Always download from the official so
 
 
 
-## Email
 
 - **🏆 [Proton Mail](https://proton.me/mail)** -
-
-- **💎 [Tutanota](https://tuta.com/)** -
-
-- **🔗 [SimpleLogin](https://simplelogin.io/)** -
 
 
 
