@@ -14,7 +14,7 @@ All tools listed here have been reviewed. Use the official sources linked below.
 
 ##  Chatbots & Assistants
 
-General-purpose AI chat interfaces you can use right now, in the browser or via app.
+AI chat interfaces
 
 - **🏆 [Claude](https://claude.ai/)** - Anthropic's AI assistant. Free tier is pretty good value.
 
@@ -89,7 +89,7 @@ AI image generators - cloud and local.
 
 ## Audio & Voice
 
-AI tools for speech, music, and sound.
+AI tools for TTS, music, and sound generation.
 
 - **🏆 [Whisper](https://github.com/openai/whisper)** -
 
@@ -105,7 +105,7 @@ AI tools for speech, music, and sound.
 
 ## Developer Tools
 
-AI tools built for coding and development.
+AI tools for coding.
 
 - **🏆 [GitHub Copilot](https://github.com/features/copilot)** - Frre but its pretty limited
 
