@@ -23,8 +23,6 @@ All software listed here has been reviewed. Always download from the official so
 - **🔗 [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)** - Chromium with all Google services and telemetry removed.
 
 
----
-
 
 ## Email
 
@@ -34,7 +32,7 @@ All software listed here has been reviewed. Always download from the official so
 
 - **🔗 [SimpleLogin](https://simplelogin.io/)** -
 
----
+
 
 ## Messaging
 
@@ -46,7 +44,7 @@ All software listed here has been reviewed. Always download from the official so
 
 - **🔗 [Briar](https://briarproject.org/)** - Peer-to-peer encrypted messaging that works over Tor.
 
----
+
 
 ## VPNs
 
@@ -62,7 +60,7 @@ Free VPNs can often be a scam, or at best a bad deal - always check you know exa
 
 - **🔗 [WireGuard](https://www.wireguard.com/)** - 
 
----
+
 
 
 ## Operating Systems
@@ -79,7 +77,7 @@ Free VPNs can often be a scam, or at best a bad deal - always check you know exa
 
 - **🔗 [Qubes OS](https://www.qubes-os.org/)** -
 
----
+
 
 ## Media Players
 
@@ -88,7 +86,7 @@ Free VPNs can often be a scam, or at best a bad deal - always check you know exa
 - **💎 [mpv](https://mpv.io/)** -
 
 - **🔗 [Jellyfin](https://jellyfin.org/)** - 
----
+
 
 
 ## Utilities
@@ -103,10 +101,9 @@ Free VPNs can often be a scam, or at best a bad deal - always check you know exa
 
 - **🔗 [KDE Connect](https://kdeconnect.kde.org/)** -
 
----
+
 
 ## Further Reading
-
-- [Privacy Guides](https://www.privacyguides.org/) 
-- [AlternativeTo](https://alternativeto.net/) 
+- [AlternativeTo](https://alternativeto.net/)
+- [Everything
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
