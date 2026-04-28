@@ -121,4 +121,4 @@ AI tools for coding.
 
 - **🔗 [Fast.ai](https://www.fast.ai/)** - Free practical deep learning courses. Hands-on, code-first approach.
 
-- **🔗 [LLM Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Community-driven benchmark where humans compare AI models. Useful for picking models.
+- **🔗 [LLM Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Benchmark for comparing models. Useful for selecting the right model for your purpose
