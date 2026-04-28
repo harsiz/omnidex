@@ -69,7 +69,7 @@ Software for running AI models yourself
 
 ## Image Generation
 
-AI image generators - cloud and local.
+AI image generators
 
 - **🏆 [Stable Diffusion](https://stability.ai/)** - The number one open source image generation model
 
