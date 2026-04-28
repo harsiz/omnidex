@@ -12,18 +12,18 @@ hero:
       text: Start Looking 👀
       link: /get-started
     - theme: alt
-      text: GitHub
-      link: https://github.com/harsiz
+      text: Contribute on Github
+      link: https://github.com/harsiz/omnidex
 ---
 
 <div class="card-grid">
 
-  <a class="card" href="/guides/ai">
+  <a class="card" href="/ai">
     <h3>🤖 AI</h3>
     <p>AI tools, chatbots, models</p>
   </a>
 
-  <a class="card" href="/guides/foss">
+  <a class="card" href="/foss">
     <h3>🐧 FOSS</h3>
     <p>Free & open source stuff</p>
   </a>
