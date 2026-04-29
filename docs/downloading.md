@@ -1,6 +1,6 @@
 # Downloading
 
-There's more than one way to get a file. This page covers everything from direct downloads to torrents, debrids, and automation — and the tools that make all of it faster and safer.
+There's more than one way to get a file. This page covers everything from direct downloads to torrents, debrids, and automation - and the tools that make all of it faster and safer.
 
 ---
 
@@ -9,205 +9,160 @@ There's more than one way to get a file. This page covers everything from direct
 Downloading straight from your browser is fine for small files. For anything serious, a download manager is a must.
 
 > **Why?**
->
-> Browsers download files as a single connection — if it drops, you start over. Download managers split files into parallel chunks, resume broken transfers, queue hundreds of files at once, and integrate directly with file hosts. The difference in speed and convenience is night and day.
+Browsers download files as a single connection, and this will start over if it fails. Download managers will split your file into parallel chunks, resume broken transfers, queue literally hundreds of files at once, and so much more. The difference in speed is absolutely night and day.
 
-- **🏆 [JDownloader 2](https://jdownloader.org/)** — The gold standard. Handles premium file hosts, auto-solves CAPTCHAs, extracts archives, and can be controlled remotely. Free and open source.
+- **🏆 [JDownloader 2](https://jdownloader.org/)** - 
 
-- **💎 [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/)** — Splits downloads into segments for maximum speed. Deep browser integration. Paid (~$25), but one of the fastest options available.
+- **💎 [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/)** - 
 
-- **💎 [Free Download Manager](https://www.freedownloadmanager.org/)** — A genuinely capable free alternative to IDM. Segmented downloads, built-in torrent support, and browser integration. Open source.
+- **💎 [Free Download Manager](https://www.freedownloadmanager.org/)** - 
 
-- **💎 [aria2](https://aria2.github.io/)** — Lightweight command-line downloader. Supports HTTP, FTP, BitTorrent, and Metalink. Scriptable and extremely fast. Open source.
+  - **💎 [aria2](https://aria2.github.io/)** - CLI utlility
 
-- **🔗 [Motrix](https://motrix.app/)** — A clean GUI built on top of aria2. Cross-platform, open source, no fuss.
+- **🔗 [Motrix](https://motrix.app/)** -
 
-- **🔗 [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com/)** — Open source IDM alternative with browser integration and a built-in video grabber.
+- **🔗 [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com/)** - 
 
----
 
-## 🗂️ Direct Download (DDL)
-
-Direct downloads are straightforward — a link, a click, a file. No client needed.
-
-> **Why use DDL over torrenting?**
->
-> DDLs are simpler, faster to start, and don't require a VPN to use safely. They're best for one-off files where you just want something now. The downside is that links go dead and file hosts throttle free users. For large or popular content, torrenting or debrid services often beat DDL in reliability.
+## Direct Download (DDL)
+DDLs are simpler than torrenting, faster, and don't require a VPN to use properly. For large and/or popular content, torrenting or debrid services often beat DDL to the punch.
 
 :::warning
-General DDL sites are best for **video, audio, books, and magazines**. Avoid them for software and games — use dedicated verified sources for those.
+Avoid these site for games, use the game [needs link] section instead
 :::
 
-- **🏆 [Internet Archive](https://archive.org/)** — A non-profit digital library preserving the internet. Video, audio, books, software, ROMs, magazines, and historical documents. Completely free and legal.
+- **🏆 [Internet Archive](https://archive.org/)** - 
 
-- **💎 [SoftArchive](https://sanet.st/)** — Long-running DDL index for audio, books, comics, newspapers, and magazines.
+- **💎 [SoftArchive](https://sanet.st/)** -
 
-- **🔗 [MaxRelease](https://maxrelease.net/)** — Video, audio, and magazines from scene releases.
+- **🔗 [MaxRelease](https://maxrelease.net/)** -
 
-- **🔗 [SCNLOG](https://scnlog.me/)** — Scene release tracker. Video, audio, ROMs, books.
+- **🔗 [DirtyWarez](https://dirtywarez.org/)** -
 
-- **🔗 [DirtyWarez](https://dirtywarez.org/)** — Video, audio, books, and comics DDL index.
 
-### 🔍 DDL Search Engines
+### DDL Search Engines
 
 Search across multiple DDL sources at once instead of checking sites individually.
 
-- **🏆 [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ohkk8gmukdu)** — Google custom search engine scoped to DDL sites. Often the fastest way to find a direct link.
+- **🏆 [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ohkk8gmukdu)** - Google custom search engine but with DDL sites.
 
-- **💎 [FilePursuit](https://filepursuit.com/)** — Indexes open FTP and HTTP file servers. Surprisingly good for obscure files.
+- **💎 [FilePursuit](https://filepursuit.com/)** - Indexes open FTP and HTTP file servers.
 
-- **🔗 [Napalm FTP](https://www.searchftps.net/)** — FTP server search engine.
+- **🔗 [Napalm FTP](https://www.searchftps.net/)** - FTP server search engine.
 
-- **🔗 [Mamont](https://www.mmnt.ru/)** — Another FTP search engine. Use with a translator.
 
----
-
-## 🌊 Torrenting
+## Torrenting
 
 Torrenting is a peer-to-peer file sharing protocol. Instead of downloading from a single server, you pull pieces of the file from many people simultaneously.
 
 > **Why torrent?**
->
-> Torrents don't go dead. As long as someone is seeding, the file is available — sometimes for years after it disappeared everywhere else. Speeds scale with the number of seeders, and there's no file host throttling your connection. The tradeoff is that your IP is visible to other peers, which is why a VPN is strongly recommended.
+Torrents don't go dead. As long as someone is seeding, the file is available. The tradeoff is that your IP is visible to other peers, which is why a VPN is necessary.
 
 :::warning
-**Bind your VPN to your torrent client.** This prevents your real IP from leaking if the VPN drops. Most clients support kill switches or interface binding natively.
+Bind your VPN to your torrent client. Most clients support this.
 :::
 
 ### Torrent Clients
 
-- **🏆 [qBittorrent](https://www.qbittorrent.org/)** — The best free, open source torrent client. No ads, no bloat, actively maintained. Available on all platforms. Supports VPN binding, RSS, and sequential downloading.
+- **🏆 [qBittorrent](https://www.qbittorrent.org/)** - 
 
-- **💎 [Deluge](https://deluge-torrent.org/)** — Lightweight and highly extensible via plugins. Great for headless or server setups.
+- **💎 [Deluge](https://deluge-torrent.org/)** - 
 
-- **💎 [Transmission](https://transmissionbt.com/)** — Minimal, fast, and open source. The default choice on Linux and macOS.
+- **💎 [Transmission](https://transmissionbt.com/)** - Best for Linux and macOS.
 
-- **🔗 [rTorrent](https://github.com/rakshasa/rtorrent)** — Powerful CLI client. Pair with [Flood](https://flood.js.org/) for a clean web UI.
+- **🔗 [rTorrent](https://github.com/rakshasa/rtorrent)** - CLI. Use [Flood](https://flood.js.org/) or RuTorrent for a web UI.
 
-- **🔗 [BiglyBT](https://www.biglybt.com/)** — Feature-packed open source client with I2P support for anonymous torrenting.
+- **🔗 [BiglyBT](https://www.biglybt.com/)** - Supports i2p.
 
 ### Torrent Sites
 
-- **🏆 [1337x](https://1337x.to/)** — Large, well-organised torrent site. Video, audio, games, and software. Has multiple mirrors.
+- **🏆 [1337x](https://1337x.to/)** - Has mirrors.
 
-- **💎 [RuTracker](https://rutracker.org/)** — Russian tracker with an enormous, well-maintained library including rare and niche content. Free sign-up required. Use a translator.
+- **💎 [RuTracker](https://rutracker.org/)** - In Russian for the gore and CP watching Moscow residents living in their 5m^2 flats
 
-- **💎 [RARBG Dump](https://rarbggo.org/)** — Archive of the now-defunct RARBG. Video, audio, games, books.
+- **💎 [RARBG Dump](https://rarbggo.org/)** - Archive for RARBG.
 
-- **🔗 [LimeTorrents](https://www.limetorrents.lol/)** — Clean general torrent index. Video, audio, books.
+- **🔗 [LimeTorrents](https://www.limetorrents.lol/)** - Clean index
+
+- **🔗 [TorrentDownloads](https://www.limetorrents.lol/)**
 
 ### Torrent Aggregators
 
 Search across multiple trackers simultaneously without visiting each site.
 
-- **🏆 [Knaben](https://knaben.eu/)** — One of the best multi-tracker search engines. Fast and comprehensive.
+- **🏆 [Knaben](https://knaben.eu/)** - 
 
-- **💎 [BTDigg](https://btdig.com/)** — DHT-based search. Finds torrents that aren't on any indexed site.
+- **💎 [BTDigg](https://btdig.com/)** -
 
-- **🔗 [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:--3lqvhkstk)** — Google custom search across major torrent sites.
 
 ### Private Trackers
 
-Private trackers are invite-only communities with better speeds, content quality, and retention than public sites.
+You get faster speeds, healthier torrents, and content that simply doesn't exist elsewhere on the internet. The entry barrier is the whole point.
 
-> **Why bother with private trackers?**
->
-> Public torrent sites are a free-for-all. Private trackers vet their members, enforce seeding ratios, and maintain their libraries carefully. You get faster speeds, healthier torrents, and content that simply doesn't exist elsewhere — especially for music, old films, and niche media. The entry barrier is the point.
+- **💎 [r/trackers](https://www.reddit.com/r/trackers/)** -
 
-- **💎 [r/trackers](https://www.reddit.com/r/trackers/)** — Community hub for private tracker discussion, invite threads, and news.
+- **💎 [OpenSignups](https://opensignups.net/)** -=
 
-- **💎 [OpenSignups](https://opensignups.net/)** — Lists private trackers currently open for public registration — no invite needed during open windows.
+- **🔗 [Private Tracker Spreadsheet](https://hdvinnie.github.io/Private-Tracker-Spreadsheet/)** -=
 
-- **🔗 [Private Tracker Spreadsheet](https://hdvinnie.github.io/Private-Tracker-Spreadsheet/)** — Comprehensive breakdown of trackers by category and quality tier.
+- **🔗 [Tracker Pathways](https://rentry.org/private-trackers)** - I used this btw
 
-- **🔗 [Tracker Pathways](https://rentry.org/private-trackers)** — Guide to moving up through invite tiers across the ecosystem.
 
----
 
-## 🔑 Debrid Services
+## Debrid Services
 
-Debrid services are one of the best-kept secrets in the downloading world.
 
-> **What is a debrid?**
->
-> A debrid service acts as a middleman between you and file hosts. You give it a link — from a premium file host, or even a magnet/torrent — and it downloads it to their high-speed servers, then serves it back to you at full speed with no throttling or waiting. It effectively turns free-tier file host speeds into premium speeds, and can stream cached torrents as instant HTTP downloads without you ever running a torrent client.
->
-> For ~€3/month, Real-Debrid is arguably the best value tool in this entire guide.
+- **🏆 [Real-Debrid](https://real-debrid.com/)** - ~€3/mo.
 
-- **🏆 [Real-Debrid](https://real-debrid.com/)** — The most widely supported debrid. Unlocks 50+ file hosts and caches torrents for instant HTTP downloads. ~€3/mo. Works with JDownloader, Stremio/Torrentio, Kodi, and most media apps.
+- **💎 [TorBox](https://torbox.app/)** -Has a free tier (10GB/mo).
 
-- **💎 [TorBox](https://torbox.app/)** — Modern debrid with torrent, Usenet, and web download support. Has a free tier (10GB/mo). Rapidly growing app support.
+- **💎 [Premiumize](https://www.premiumize.me/)** - ~€9.99/mo.
 
-- **💎 [Premiumize](https://www.premiumize.me/)** — Debrid + cloud storage combo. Supports many file hosts, includes a clean file manager. ~€9.99/mo.
+- **🔗 [AllDebrid](https://alldebrid.com/)** - ~€3/mo.
 
-- **🔗 [AllDebrid](https://alldebrid.com/)** — Similar to Real-Debrid, wide host support. ~€3/mo.
+--
 
-- **🔗 [Debrid-Link](https://debrid-link.com/)** — French debrid service with competitive pricing.
+- **💎 [Debrid Media Manager](https://debridmediamanager.com/)** -
 
-### Debrid Apps
-
-- **💎 [Debrid Media Manager](https://debridmediamanager.com/)** — Browser-based UI for browsing, searching, and streaming your Real-Debrid/AllDebrid library.
-
-- **💎 [Stremio](https://www.stremio.com/) + [Torrentio](https://torrentio.strem.fun/)** — Pair with Real-Debrid to stream cached torrents directly. No downloading required — it just plays like Netflix.
+- **💎 [Stremio](https://www.stremio.com/) + [Torrentio](https://torrentio.strem.fun/)** -
 
 ---
 
-## ☁️ Usenet
+## Usenet
 
-Usenet is a decades-old discussion network that became one of the fastest and most private ways to download files.
+- **🏆 [SABnzbd](https://sabnzbd.org/)** -
 
-> **Why Usenet?**
->
-> Downloads happen over encrypted HTTPS at your full connection speed — no peers, no seeding ratios, no ISP flags. Files are split across binary newsgroups and retained for years. The catch: it costs money. You need a provider (~$3–10/mo) and an indexer (some are free) to find content. It's the enthusiast's choice for maximum speed and privacy.
+- **💎 [NZBGet](https://nzbget.net/)** -
 
-- **🏆 [SABnzbd](https://sabnzbd.org/)** — The best Usenet downloader. Web UI, automation-ready, integrates with Sonarr/Radarr. Open source.
+--
 
-- **💎 [NZBGet](https://nzbget.net/)** — Lightweight, fast, and low on resources. Great for low-power devices. Open source.
+- **🔗 [r/usenet](https://www.reddit.com/r/usenet/)** -
 
-- **💎 [NZBHydra2](https://github.com/theotherp/nzbhydra2)** — Meta-search across multiple NZB indexers in one interface. Open source.
 
-- **🔗 [r/usenet](https://www.reddit.com/r/usenet/)** — Community hub for provider recommendations, deals, and setup guides.
 
----
+## Download Automation
 
-## 🤖 Download Automation
+- **🏆 [Sonarr](https://sonarr.tv/)** -
+ 
+- **🏆 [Radarr](https://radarr.video/)** - Same as Sonarr but its bulit for movies.
 
-Why manually search for things when software can do it for you?
+- **💎 [Prowlarr](https://github.com/Prowlarr/Prowlarr)** - 
 
-> **How it works**
->
-> Tools like Sonarr and Radarr monitor your media library and automatically search, download, and organise new content the moment it's available. Point them at your torrent client or Usenet downloader, connect an indexer via Prowlarr, and your library manages itself. Add Jellyfin on top and you have a self-hosted streaming setup that rivals any subscription service — for free.
+- **💎 [Lidarr](https://lidarr.audio/)** -.
 
-- **🏆 [Sonarr](https://sonarr.tv/)** — Automatic TV show downloader and library manager. Monitors for new episodes and grabs them automatically. Works with torrents, Usenet, and debrids. Open source.
+- **🔗 [Bazarr](https://www.bazarr.media/)** - Subtitle downloader for Sonarr and Radarr
 
-- **🏆 [Radarr](https://radarr.video/)** — Same as Sonarr but for movies. Open source.
-
-- **💎 [Prowlarr](https://github.com/Prowlarr/Prowlarr)** — Centralised indexer manager for Sonarr and Radarr. Manages all your torrent and Usenet indexers in one place. Open source.
-
-- **💎 [Lidarr](https://lidarr.audio/)** — Automated music collection manager. Open source.
-
-- **🔗 [Readarr](https://readarr.com/)** — Automated ebook and audiobook downloader. Open source.
-
-- **🔗 [Bazarr](https://www.bazarr.media/)** — Automatically downloads subtitles for your Sonarr and Radarr libraries.
-
-:::info The full stack
-**Sonarr + Radarr + Prowlarr + Jellyfin + Real-Debrid** is one of the most popular setups for a completely free, self-hosted streaming experience. Everything is automatic — shows and movies appear in Jellyfin as soon as they release.
+:::info
+**Sonarr + Radarr + Prowlarr + Jellyfin + Real-Debrid** is one of the most popular setups as it's free and self hosted. I would use this if i could be bothered.
 :::
 
 ---
 
-## 🛡️ Safety
+### Use these when torrenting
+- **🏆 [uBlock Origin](https://ublockorigin.com/)** - Absolutely essential. The free version works just as well as the paid.
 
-> **Why does this matter?**
->
-> DDL and torrent sites are full of malicious ads and fake download buttons designed to trick you into running malware. A single wrong click can install a keylogger or ransomware. An ad blocker and a quick VirusTotal scan before running any executable are non-negotiable habits.
+- **💎 [VirusTotal](https://www.virustotal.com/)** - Scan files and URLs against antivirus engines before running them, and it's completely free.
 
-- **🏆 [uBlock Origin](https://ublockorigin.com/)** — Essential for any DDL or torrent site. Blocks malicious ads, fake download buttons, and pop-ups. Available for Firefox and all Chromium-based browsers.
+- **💎 [Triage](https://tria.ge/)** -  Online sandbox for running suspicous files where they can't harm your device.
 
-- **💎 [VirusTotal](https://www.virustotal.com/)** — Scan any file or URL against 70+ antivirus engines instantly. Free.
-
-- **💎 [Triage](https://tria.ge/)** — Online sandbox. Run a suspicious file in an isolated environment and watch exactly what it does. More thorough than VirusTotal.
-
-- **🔗 [T2M](https://torrent2magnet.com/)** — Convert torrent files to magnet links without opening a client first.
-
-- **🔗 [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/)** — See what torrents are publicly visible from your IP address. Good motivation to use a VPN.
+- **🔗 [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/)** - 
