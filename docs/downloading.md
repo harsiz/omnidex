@@ -3,7 +3,7 @@
 DDL sites, torrent clients, download managers, debrids, and other tools
 
 :::warning
-It's prudent to scan downloaded software with **[VirusTotal](https://www.virustotal.com/)** before installing.
+It's prudent to scan downloaded software with [VirusTotal](https://www.virustotal.com/) before installing.
 :::
 
 ---
