@@ -7,11 +7,11 @@ DDL sites, torrent clients, download managers, debrids, and other tools
     **"💎"** indicates recommended and trusted source.
     **"🏆"** indicates the best pick in the author(s) opinion.
 
-Always use an **ad blocker** on DDL and torrent sites. Use a **VPN** when torrenting to prevent your ISP throttling your speeds
+Always use an **ad blocker** on DDL and torrent sites. Use a **VPN** when torrenting to prevent your ISP throttling your Internet speeds (they will do this without warning or informing you of this).
 :::
 
 :::warning
-Its prudent to scan downloaded software with [VirusTotal](https://www.virustotal.com/) before installing.
+It's prudent to scan downloaded software with [VirusTotal](https://www.virustotal.com/) before installing.
 :::
 
 ---
@@ -52,7 +52,6 @@ Avoid these site for games, use the game [needs link] section instead
 
 ## DDL Search Engines
 
-Search across multiple DDL sources at once.
 
 - **🏆 [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ohkk8gmukdu)** - Google custom search engine but with DDL sites.
 
@@ -67,7 +66,7 @@ Search across multiple DDL sources at once.
 ### Torrent Clients
 
 :::warning
-Bind your VPN to your torrent client. Most clients support this natively.
+Bind your VPN to your torrent client. Most clients support this.
 :::
 
 - **🏆 [qBittorrent](https://www.qbittorrent.org/)**
@@ -79,6 +78,8 @@ Bind your VPN to your torrent client. Most clients support this natively.
 - **🔗 [rTorrent](https://github.com/rakshasa/rtorrent)** - CLI. Use [Flood](https://flood.js.org/) or RuTorrent for a web UI.
 
 - **🔗 [BiglyBT](https://www.biglybt.com/)** - Supports i2p
+
+
 ### Torrent Sites
 
 - **🏆 [1337x](https://1337x.to/)** - Has mirrors.
@@ -93,8 +94,6 @@ Bind your VPN to your torrent client. Most clients support this natively.
 
 ### Torrent Aggregators
 
-Search across multiple trackers at once.
-
 - **🏆 [Knaben](https://knaben.eu/)** - 
 
 - **💎 [BTDigg](https://btdig.com/)** -
@@ -102,7 +101,7 @@ Search across multiple trackers at once.
 
 ### Private Trackers
 
-Invite-only torrent communities.
+Invite-only torrenting communities.
 
 - **💎 [r/trackers](https://www.reddit.com/r/trackers/)** -
 
@@ -135,7 +134,7 @@ Bypasses the need to directly torrent
 
 ## Usenet
 
-good alternative to torrenting
+Good alternative to torrenting
 
 
 
@@ -153,8 +152,6 @@ good alternative to torrenting
 
 ## Download Automation
 
-
-
 - **🏆 [Sonarr](https://sonarr.tv/)** -
 
 - **🏆 [Radarr](https://radarr.video/)** - Same as Sonarr but its built for movies.
@@ -164,7 +161,7 @@ good alternative to torrenting
 - **🔗 [Bazarr](https://www.bazarr.media/)** - Subtitle downloader for Sonarr and Radarr
 
 :::info
-Sonarr + Radarr + Prowlarr + Jellyfin + Real-Debrid is one of the most popular setups as its free and self hosted. I would use this if i could be bothered.
+Sonarr + Radarr + Prowlarr + Jellyfin + Real-Debrid is one of the most popular setups as it's free and self hosted. I would use this if i could be bothered.
 :::
 
 
