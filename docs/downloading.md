@@ -167,8 +167,8 @@ Sonarr + Radarr + Prowlarr + Jellyfin + Real-Debrid is one of the most popular s
 
 ### Use these when torrenting
 
-- **🏆 [uBlock Origin](https://ublockorigin.com/)** - Essential for DDL and torrent sites. Blocks malicious ads and pop-ups. Available for Firefox and Chromium browsers.
+- **🏆 [uBlock Origin](https://ublockorigin.com/)** - Absolutely essential. The free version works just as well as the paid.
 
-- **💎 [VirusTotal](https://www.virustotal.com/)** - Scan files and URLs against 70+ antivirus engines before running anything.
+- **💎 [VirusTotal](https://www.virustotal.com/)** - Scan files and URLs against antivirus engines before running them.
 
-- **💎 [Triage](https://tria.ge/)** - Online sandbox for running suspicious files safely. More thorough than VirusTotal.
+- **💎 [Triage](https://tria.ge/)** - Online sandbox for running suspicous files where they cant harm your device.
