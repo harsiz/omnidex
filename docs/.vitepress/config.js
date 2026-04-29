@@ -33,7 +33,8 @@ export default {
           { text: "🌸 Anime", link: "/anime" },
           { text: "🎬 Streaming", link: "/streaming" },
           { text: "⬇️ Downloading", link: "/downloading" },
-          { text: "🐧 FOSS", link: "/foss" }
+          { text: "🐧 FOSS", link: "/foss" },
+          { text: "🎮 Gaming", link: "/gaming" }
         ]
       },
 
