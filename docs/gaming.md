@@ -87,4 +87,4 @@ Get more performance and control out of your games.
 - **🔗 [CurseForge](https://www.wabbajack.org/)** - 
 
 
-- **🔗 [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)** - Stream your existing Steam/Epic library from NVIDIA's servers. Free tier available.
+- **🔗 [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)** -
