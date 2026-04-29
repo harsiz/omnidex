@@ -7,7 +7,7 @@ DDL sites, torrent clients, download managers, debrids, and other tools
     **"💎"** indicates recommended and trusted source.
     **"🏆"** indicates the best pick in the author(s) opinion.
 
-Always use an **ad blocker** on DDL and torrent sites. Use a **VPN** when torrenting to prevent your **[ISP](https://en.wikipedia.org/wiki/Internet_service_provider)**. throttling your Internet speeds (they will do this without warning or informing you of this).
+Always use an **ad blocker** on DDL and torrent sites. Use a **VPN** when torrenting to prevent your **[ISP](https://en.wikipedia.org/wiki/Internet_service_provider)** throttling your Internet speeds (they will do this without warning or informing you of this).
 :::
 
 :::warning
