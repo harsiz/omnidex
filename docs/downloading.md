@@ -21,7 +21,7 @@ Browsers download files as a single connection, and this will start over if it f
 
 - **💎 [Free Download Manager](https://www.freedownloadmanager.org/)** - 
 
-  - **💎 [aria2](https://aria2.github.io/)** - CLI utlility
+- **💎 [aria2](https://aria2.github.io/)** - CLI utlility
 
 - **🔗 [Motrix](https://motrix.app/)** -
 
