@@ -48,7 +48,7 @@ Avoid these site for games, use the game [needs link] section instead
 
 - **🔗 [WarezForums](https://warezforums.com/)** -
 
----
+
 
 ## DDL Search Engines
 
@@ -168,7 +168,7 @@ Sonarr + Radarr + Prowlarr + Jellyfin + Real-Debrid is one of the most popular s
 :::
 
 
-# Use these when torrenting
+### Use these when torrenting
 
 - **🏆 [uBlock Origin](https://ublockorigin.com/)** - Essential for DDL and torrent sites. Blocks malicious ads and pop-ups. Available for Firefox and Chromium browsers.
 
