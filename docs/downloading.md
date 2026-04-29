@@ -1,6 +1,6 @@
 # Downloading
 
-There's more than one way to get a file. This page covers everything from direct downloads to torrents, debrids, and automation - and the tools that make all of it faster and safer.
+DDL sites, torrent clients, download managers, debrids, and other tools
 
 ---
 
