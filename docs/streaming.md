@@ -37,7 +37,7 @@ The mainstream, paid options.
 ### Free Sites
 
 :::warning
-Use an ad blocker. These sites are ad-heavy. [uBlock Origin](https://ublockorigin.com/) handles them well.
+Use an ad blocker, these sites will bombard you with ads if you don't have one. [uBlock Origin](https://ublockorigin.com/) handles them well.
 :::
 - **🏆 [Cineby](https://www.cineby.sc/)** - Great site with a clean UI, auto server switching and watchlists and history. Tip - you can disable ads in browse > ad status without needing an adblocker. Mobile friendly
 
