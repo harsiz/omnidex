@@ -10,7 +10,7 @@ It's prudent to scan downloaded software with [VirusTotal](https://www.virustota
 
 ## ⚡ Download Managers
 
-Downloading straight from your browser is fine for small files. For anything serious, a download manager is a must.
+Downloading straight from your browser is fine for small files. However, for larger files a download manager is a must.
 
 > **Why?**
 Browsers download files as a single connection, and this will start over if it fails. Download managers will split your file into parallel chunks, resume broken transfers, queue literally hundreds of files at once, and so much more. The difference in speed is absolutely night and day.
