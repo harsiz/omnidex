@@ -89,9 +89,7 @@ this list alone.
 ---
 <br/>
 
-- **🏆 [AnimeKai / AniKai](https://animekai.to)**
-    - ( [AniKai](https://anikai.to) )
-        - ( [Alt directory](https://animekai.pw) )
+- **🏆 [AnimeNexus](https://anime.nexus)**
 
 - **🏆 [Flixer](https://flixer.su)**
 
@@ -140,8 +138,6 @@ this list alone.
 - **🔗 [Kawaii-anime](https://kawaii-anime.com/)** (content depends on websites it scrapes; not as reliable as others.)
 
 - **🔗 [AniverseHD](https://aniversehd.com/)**
-
-- **🔗 [AnimeNexus](https://anime.nexus/)**
 
 - **🔗 [Anikage](https://anikage.cc/)**
 
